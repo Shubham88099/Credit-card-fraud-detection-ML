@@ -28,6 +28,12 @@ The main goal of this project is to build a model that can classify transactions
 
 ---
 
+image output 
+<img width="3600" height="2400" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/48a8fa36-6a5f-41f6-a814-d9d9bdd57c2b" />
+<img width="3000" height="1800" alt="confusion_matrix" src="https://github.com/user-attachments/assets/2cb2011a-d849-48bd-80b1-308cc31e88c5" />
+
+
+
 ## 📈 Results
 
 After balancing the dataset, the model achieved:
